@@ -1,0 +1,3 @@
+# PS2 HDD Reader Requirements
+# No external dependencies required - uses only Python standard library
+
